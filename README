@@ -1,4 +1,6 @@
-txtCalc: A text-based calculator
+# txtCalc # 
+
+## A text-based calculator ##
 
 Run => #python txtCalc.py 
 
